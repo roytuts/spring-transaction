@@ -1,0 +1,1 @@
+You can read tutorial https://www.roytuts.com/declarative-transaction-management-example-in-spring/
