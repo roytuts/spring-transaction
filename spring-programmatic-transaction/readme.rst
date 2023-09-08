@@ -1,1 +1,1 @@
-You can read tutorial https://www.roytuts.com/programmatic-transaction-management-example-in-spring/
+Please follow the tutorial https://roytuts.com/programmatic-transaction-management-example-in-spring/
